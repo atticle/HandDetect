@@ -47,8 +47,7 @@ https://developers.google.com/edge/mediapipe/solutions/guide
 터미널(명령 프롬프트)을 열고 아래 명령을 실행한다.
 
 ```sh
-pip install mediapipe
-pip install opencv-python
+pip install mediapipe  # opencv-python-contribute가 함께 설치됨
 ```
 
 ### 1.3 AI 모델
